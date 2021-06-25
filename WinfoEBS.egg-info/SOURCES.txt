@@ -1,0 +1,9 @@
+setup.py
+WinfoEBS.egg-info/PKG-INFO
+WinfoEBS.egg-info/SOURCES.txt
+WinfoEBS.egg-info/dependency_links.txt
+WinfoEBS.egg-info/entry_points.txt
+WinfoEBS.egg-info/requires.txt
+WinfoEBS.egg-info/top_level.txt
+services/__init__.py
+services/app.py

@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        WinfoEBS=services.app:ebs
+    
